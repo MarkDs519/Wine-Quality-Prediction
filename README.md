@@ -2,7 +2,7 @@
 Several machine learning models such as KNN, Random Forest, Decision Tree and SVM to predict wine quality. I tried to predict based ony on the red wine data. Furthermore, evaluation metrics was used to find the best predictor.
 
 # A sample of the dataset
-
+![data](https://user-images.githubusercontent.com/26629945/61175574-dca51680-a5d3-11e9-8150-56cde13b4310.JPG)
 
 # Distribution of the data
 
